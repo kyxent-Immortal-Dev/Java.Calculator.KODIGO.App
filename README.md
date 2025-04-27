@@ -22,10 +22,6 @@ El proyecto está organizado en varias clases, cada una con una responsabilidad 
 - `Division.java`: Implementa la operación de división.
 - `Potencia.java`: Implementa la operación de potencia.
 - `RaizCuadrada.java`: Implementa la operación de raíz cuadrada.
-- `Calculadora.java`: Implementa una versión alternativa que centraliza todas las operaciones.
-- `Operacion.java`: Clase abstracta que define la estructura básica de una operación.
-- `Numero.java`: Clase para representar un número y validar su valor.
-- `MainAlternativo.java`: Versión alternativa del punto de entrada que utiliza la clase Calculadora.
 
 ## Requisitos del Sistema
 - Java 8 o superior
@@ -87,10 +83,9 @@ Este proyecto aplica conceptos de programación orientada a objetos como:
 - Manejo de excepciones
 - Buenas prácticas de codificación
 
-Se proporcionan dos implementaciones diferentes para mostrar enfoques alternativos de diseño.
 
 ## Autor
-[Tu Nombre]
+Ezequiel Campos
 
 ## Licencia
-Este proyecto está bajo la Licencia [Tipo de Licencia].
+Este proyecto está bajo la Licencia Open Source.
